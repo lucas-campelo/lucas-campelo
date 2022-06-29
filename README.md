@@ -47,6 +47,6 @@ You can reach me out using these:
 </div>
 
 <div align="center">
-<img src="https://media1.tenor.com/images/8c3b94318be3ffc3027ace49bc0daefe/tenor.gif?itemid=4987000" width=250 height=250><br>
+<img src="https://media1.tenor.com/images/8c3b94318be3ffc3027ace49bc0daefe/tenor.gif?itemid=4987000" width=150 height=auto><br>
 Later.
 </div>
