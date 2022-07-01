@@ -2,7 +2,7 @@
 
 ## About Me
 
-My name is Lucas, I'm a computer science student (7/9) and a back-end software developer at [GoLedger](https://goledger.com.br/), working with blockchain technology. Currently I study and work so I can improve myself both as a person and a professinal, and reach out for what I want for me and those I love.
+My name is Lucas, I'm a computer science student (7/9) and a back-end software developer at [GoLedger](https://goledger.com.br/), working with blockchain technology. Currently I study and work so I can improve myself both as a person and a professional, and reach out for what I want for me and those I love.
 
 Some trivia about me:
 * My favorite food is pizza
